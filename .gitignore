@@ -1,0 +1,31 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+out/
+build/
+target/
+
+# Dependencies
+.gradle/
+/build/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# SQL specific
+*.db
+*.sqlite
+*.sqlitedb
+*.mdf
+*.ldf
+
+# OS generated files
+.DS_Store
+Thumbs.db
